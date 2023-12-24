@@ -40,7 +40,7 @@ global.ppulsa = '082257529886' //pulsa2
 global.povo = '-' //ovo
 global.gopay = '-' //gopay
 global.dana = '082257529886' //dana
-global.sid = 'https://wa.me/6282257529886 //s.id
+global.sid = 'https://wa.me/6282257529886 //s.id'
 global.psaweria = 'https://saweria.com/Dimaskuyy'//saweria
 
 /*============== NOMOR ==============*/
@@ -367,7 +367,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = 'Rimuru Multidevice'
 global.stickauth = `☂︎\nR\nl\nm\nu\nr\nu\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ\nwa.me/${global.nomorbot}`
 global.packname = 'sᴛɪᴄᴋᴇʀ ʀᴇǫᴜᴇsᴛ ʙʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Dmss-Slbeww 
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Dmss-Slbeww '
 
 global.multiplier = 38 // The higher, The harder levelup
 
