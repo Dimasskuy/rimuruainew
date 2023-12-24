@@ -40,7 +40,7 @@ global.ppulsa = '082257529886' //pulsa2
 global.povo = '-' //ovo
 global.gopay = '-' //gopay
 global.dana = '082257529886' //dana
-global.sid = 'https://wa.me/6282257529886 //s.id'
+global.sid = 'https://wa.me/6282257529886' //s.id
 global.psaweria = 'https://saweria.com/Dimaskuyy'//saweria
 
 /*============== NOMOR ==============*/
@@ -92,12 +92,12 @@ global.version = '3.0.0'
 
 /*============== WATERMARK ==============*/
 global.wm = 'Dmss-Slbeww '//wm1
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rimuru - AI˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷' //wm2
+global.wm2 = '˘Rimuru - AI꒷' //wm2
 global.wm3 = '• Rimuru MultiDevice' //wm3
 global.namedoc = 'Dmss-Slbeww '//nama document
 global.botdate = `• ᴅᴀʏ's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
-global.titlebot = '🎋 ┊ Rimuru Bot'
+global.titlebot = '🇵🇸 ┊ Rimuru Bot'
 global.author = global.wm
 
 /*============== THUMB ==============*/
@@ -367,7 +367,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = 'Rimuru Multidevice'
 global.stickauth = `☂︎\nR\nl\nm\nu\nr\nu\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ\nwa.me/${global.nomorbot}`
 global.packname = 'sᴛɪᴄᴋᴇʀ ʀᴇǫᴜᴇsᴛ ʙʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Dmss-Slbeww '
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Dmss-Slbeww'
 
 global.multiplier = 38 // The higher, The harder levelup
 
